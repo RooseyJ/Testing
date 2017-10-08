@@ -10,5 +10,7 @@ int main()
 	x = 2;
 
 	int y = x + 2;
+
+	int z = y*x;
 }
 
