@@ -13,7 +13,7 @@ int main()
 	int y = x + 2;
 
 	int z = y*x;
-	z = 3;
+	z = 5;
 
 	int newNumber = z + 5;
 
