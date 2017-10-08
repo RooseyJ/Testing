@@ -2,7 +2,8 @@
 //
 
 #include "stdafx.h"
-
+#include <iostream>
+using namespace std;
 
 int main()
 {
@@ -13,5 +14,11 @@ int main()
 
 	int z = y*x;
 	z = 3;
+
+	int newNumber = z + 5;
+
+	cout << newNumber << endl;
+
+	system("PAUSE");
 }
 
